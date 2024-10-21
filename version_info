@@ -6,3 +6,15 @@ a0eae2c0d6266108e74062b1bbb28b863a07406828242311144746d783a77c7f code-server-4.9
 siyuan version 3.1.9 
 23d7650f21493c1eb73210a1e447e8bd4f77fea3c949e376cf3bf16edd4f9371 siyuan-3.1.9-linux-arm64.tar.gz
 793f3ad3b1028e3c591b169fd8918cefe3ee5101721d291f271e8651db24823c siyuan-3.1.9-linux-amd64.tar.gz
+
+alpine version 3.15.11
+1040dc3c9cdf5c52778789e4fe5f7b44d10d24ce9167afbbf907e44789654b9d alpine-minirootfs-3.15.11-x86_64.tar.gz
+cd7de8bae63eade9fe029c0ebeea4904206833992b972a7449382157eeae011b alpine-minirootfs-3.15.11-x86.tar.gz
+66592641096583970d04776624ab383ef2bc02b2e8ecaee07f2ad1e6eab355b3 alpine-minirootfs-3.15.11-armhf.tar.gz
+ce07328724ad029c91616a35d4a174c40f14f729596ad49bbe0893923b6f467b alpine-minirootfs-3.15.11-aarch64.tar.gz
+
+ubuntu version 24.04.1
+63c02ec569ddbbafd293bf1cbef139c601b130055aa0f244033e6bdf71ae8bd5 ubuntu-base-18.04.5-base-i386.tar.gz
+7d504ea1419ce4c3fd7ad1af95057a13f8e550691b6939e6dad7276d13d0934b ubuntu-base-24.04.1-base-armhf.tar.gz
+7700539236d24c31c3eea1d5345eba5ee0353a1bac7d91ea5720b399b27f3cb4 ubuntu-base-24.04.1-base-arm64.tar.gz
+5b0ffb1e31d4b85f5a2214f105d1377ba616c453b38ff46c278dc6472b21e2d8 ubuntu-base-24.04.1-base-amd64.tar.gz
