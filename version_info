@@ -3,6 +3,11 @@ a0eae2c0d6266108e74062b1bbb28b863a07406828242311144746d783a77c7f code-server-4.9
 1e29278529d0d8376d1344ed816b37f4e88a5ba16ce74cb1173fe437c8519852 code-server-4.93.1-linux-arm64.tar.gz
 8c001f865cf082e914375e8f28e9e15b25faa1f3de455ddc30158d54fc2326d3 code-server-4.93.1-linux-amd64.tar.gz
 
+
+pandoc version 3.5
+a46b448ad9e7e5bd898a0606a2a67acbf4bc7714b24dc68931e9a47d7b807015 pandoc-3.5-linux-amd64.tar.gz
+1bd96209bb16a0c0890d1f55eac5d4b6faac975bee20bf703df263f0408f2b51 pandoc-3.5-linux-arm64.tar.gz
+
 siyuan version 3.1.9 
 23d7650f21493c1eb73210a1e447e8bd4f77fea3c949e376cf3bf16edd4f9371 siyuan-3.1.9-linux-arm64.tar.gz
 793f3ad3b1028e3c591b169fd8918cefe3ee5101721d291f271e8651db24823c siyuan-3.1.9-linux-amd64.tar.gz
@@ -18,7 +23,3 @@ ubuntu version 24.04.1
 7d504ea1419ce4c3fd7ad1af95057a13f8e550691b6939e6dad7276d13d0934b ubuntu-base-24.04.1-base-armhf.tar.gz
 7700539236d24c31c3eea1d5345eba5ee0353a1bac7d91ea5720b399b27f3cb4 ubuntu-base-24.04.1-base-arm64.tar.gz
 5b0ffb1e31d4b85f5a2214f105d1377ba616c453b38ff46c278dc6472b21e2d8 ubuntu-base-24.04.1-base-amd64.tar.gz
-
-pandoc version 3.5
-a46b448ad9e7e5bd898a0606a2a67acbf4bc7714b24dc68931e9a47d7b807015 pandoc-3.5-linux-amd64.tar.gz
-1bd96209bb16a0c0890d1f55eac5d4b6faac975bee20bf703df263f0408f2b51 pandoc-3.5-linux-arm64.tar.gz
