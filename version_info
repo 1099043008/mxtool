@@ -18,3 +18,7 @@ ubuntu version 24.04.1
 7d504ea1419ce4c3fd7ad1af95057a13f8e550691b6939e6dad7276d13d0934b ubuntu-base-24.04.1-base-armhf.tar.gz
 7700539236d24c31c3eea1d5345eba5ee0353a1bac7d91ea5720b399b27f3cb4 ubuntu-base-24.04.1-base-arm64.tar.gz
 5b0ffb1e31d4b85f5a2214f105d1377ba616c453b38ff46c278dc6472b21e2d8 ubuntu-base-24.04.1-base-amd64.tar.gz
+
+pandoc version 3.5
+a46b448ad9e7e5bd898a0606a2a67acbf4bc7714b24dc68931e9a47d7b807015 pandoc-3.5-linux-amd64.tar.gz
+1bd96209bb16a0c0890d1f55eac5d4b6faac975bee20bf703df263f0408f2b51 pandoc-3.5-linux-arm64.tar.gz
