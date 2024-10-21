@@ -1,7 +1,7 @@
 code-server version 4.93.1
-1e67d038137949cfd6a2b15299eda6b8 code-server-4.93.1-linux-armv7l.tar.gz
-46bd9c47f91fbb0656699caf7315fbfb code-server-4.93.1-linux-arm64.tar.gz
-b34e7b751c222829458e5557a7a45b14 code-server-4.93.1-linux-amd64.tar.gz
+a0eae2c0d6266108e74062b1bbb28b863a07406828242311144746d783a77c7f code-server-4.93.1-linux-armv7l.tar.gz
+1e29278529d0d8376d1344ed816b37f4e88a5ba16ce74cb1173fe437c8519852 code-server-4.93.1-linux-arm64.tar.gz
+8c001f865cf082e914375e8f28e9e15b25faa1f3de455ddc30158d54fc2326d3 code-server-4.93.1-linux-amd64.tar.gz
 
 siyuan version 3.1.9 
 23d7650f21493c1eb73210a1e447e8bd4f77fea3c949e376cf3bf16edd4f9371 siyuan-3.1.9-linux-arm64.tar.gz
