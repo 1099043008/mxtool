@@ -1,16 +1,15 @@
-code-server version 4.93.1
-a0eae2c0d6266108e74062b1bbb28b863a07406828242311144746d783a77c7f code-server-4.93.1-linux-armv7l.tar.gz
-1e29278529d0d8376d1344ed816b37f4e88a5ba16ce74cb1173fe437c8519852 code-server-4.93.1-linux-arm64.tar.gz
-8c001f865cf082e914375e8f28e9e15b25faa1f3de455ddc30158d54fc2326d3 code-server-4.93.1-linux-amd64.tar.gz
+code-server version 4.96.2
+c1fd455402d6bc6c43b01b7273d231c2e732968b1fd492e879530af4c039a2cf code-server-4.96.2-linux-armv7l.tar.gz
+3303e8e9ed088e95e7cf2af3f0dfcc6f472b90c4582bbc5a0a287b42c181ce33 code-server-4.96.2-linux-arm64.tar.gz
+e3f454f5b5cd9f4d064a2163548b0fdec076d18d87f99187c41a618b502c31a5 code-server-4.96.2-linux-amd64.tar.gz
 
+siyuan version 3.1.17
+8f753a0bbfae4cb8e15f88741f6379ce721b0614dd73c6be36361b375fd303c4 siyuan-3.1.17-linux-arm64.tar.gz
+072fecbe4eb507a2155573c2047e9c4933e11550de99109887a5707e5d58652f siyuan-3.1.17-linux-amd64.tar.gz
 
 pandoc version 3.5
 a46b448ad9e7e5bd898a0606a2a67acbf4bc7714b24dc68931e9a47d7b807015 pandoc-3.5-linux-amd64.tar.gz
 1bd96209bb16a0c0890d1f55eac5d4b6faac975bee20bf703df263f0408f2b51 pandoc-3.5-linux-arm64.tar.gz
-
-siyuan version 3.1.9 
-23d7650f21493c1eb73210a1e447e8bd4f77fea3c949e376cf3bf16edd4f9371 siyuan-3.1.9-linux-arm64.tar.gz
-793f3ad3b1028e3c591b169fd8918cefe3ee5101721d291f271e8651db24823c siyuan-3.1.9-linux-amd64.tar.gz
 
 alpine version 3.15.11
 1040dc3c9cdf5c52778789e4fe5f7b44d10d24ce9167afbbf907e44789654b9d alpine-minirootfs-3.15.11-x86_64.tar.gz
